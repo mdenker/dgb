@@ -1,0 +1,7 @@
+numpy
+scipy
+quantities
+neo
+elephant
+pyfiglet
+git+https://github.com/INM-6/viziphant.git#egg=viziphant
