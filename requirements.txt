@@ -4,4 +4,6 @@ quantities
 neo
 elephant
 pyfiglet
+pillow
+graphviz
 git+https://github.com/INM-6/viziphant.git#egg=viziphant
